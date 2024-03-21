@@ -1,16 +1,14 @@
-### Hi there 👋
+### hiya
 
-<!--
-**Cruppelt/Cruppelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, Full-Stack Founding Engineer @ [Basis](https://www.getbasis.ai) building *the* AI platform for accounting firms.
 
-Here are some ideas to get you started:
+[We're hiring if interested!](https://basisaccounting.notion.site/Early-Careers-Basis-73bb50c1d6464ff69c943022425d4f0e)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Ex-maintainer of [GS-Quant](https://github.com/goldmansachs/gs-quant) [Docs](https://developer.gs.com/docs/gsquant/) and builder of many GS/Marquee products.
+[PlotTool Pro](https://developer.gs.com/discover/plottool-pro)
+[Data Analytics](https://developer.gs.com/discover/data-analytics)
+
+Currently a big fan of:
+[Modal](https://modal.com)
+[Instructor/Structed LLM Outputs](https://github.com/jxnl/instructor)
