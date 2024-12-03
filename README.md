@@ -1,6 +1,6 @@
 ### hiya
 
-Onto somethign new 👀 🐍
+Founding Engineer and Head of AI at [Float](https://float.tech) - We're [hiring](https://www.float.tech/careers)
 
 Ex-Basis AI - [Basis](https://www.getbasis.ai/) Great AI Accounting company - They're [hiring](https://jobs.ashbyhq.com/basis-ai).
 
