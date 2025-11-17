@@ -9,9 +9,3 @@ Ex-maintainer of [GS-Quant](https://github.com/goldmansachs/gs-quant) [(docs)](h
 [PlotTool Pro](https://developer.gs.com/discover/plottool-pro)
 
 [GS Data Analytics](https://developer.gs.com/discover/data-analytics)
-
-Currently a big fan of:
-* [Modal](https://modal.com)
-* [Structured LLM Outputs/Instructor](https://github.com/jxnl/instructor)
-* [LangSmith](https://www.langchain.com/langsmith)
-* [Prefect](https://www.prefect.io)
